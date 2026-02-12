@@ -1,0 +1,7 @@
+{
+  "name": "nexus.gg",
+  "description": "An app that is kind of like Discord but has ONE server. no pedophiles, no 1-1 chat, no bad stuff,, fam friendly, and more!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
